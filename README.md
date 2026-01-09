@@ -1,8 +1,8 @@
 [![Header](./github-header-image.png)](https://matteobreda.dev/)
-[![Matt's GitHub stats](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api?username=mattbreda&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Matt's Most used languages](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api/top-langs?username=mattbreda&show_icons=true&theme=vue-dark&layout=compact
+[![Matt's GitHub stats](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api?username=urzasadept&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's Most used languages](https://github-readme-stats-q1f3pr3wa-mattbredas-projects.vercel.app/api/top-langs?username=urzasadept&show_icons=true&theme=vue-dark&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mattbreda&title=Experience,Commits,Repositories&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=urzasadept&title=Experience,Commits,Repositories&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
